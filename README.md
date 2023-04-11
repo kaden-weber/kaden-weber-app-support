@@ -1,2 +1,2 @@
-# kaden-weber-app-support
-github page that has a link to my support email
+# Parakeet Support
+Hi! :) This page is under construction. You can send questions and support requests to this address: kwappscontact@gmail.com
